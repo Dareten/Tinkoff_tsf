@@ -9,6 +9,9 @@ public class Main {
             case 1:
                 System.out.print(Problem_one.resolution());
                 break;
+            case 2:
+                System.out.print(Problem_two.resolution());
+                break;
         }
     }
 }
